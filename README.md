@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm mazinsallam, Flutter Developer.
+I'm mazin, Flutter Developer.
 
 - 🧭 freelance mobile developer flutter 
 
@@ -16,11 +16,11 @@ I'm mazinsallam, Flutter Developer.
 
 
 ## Contact
-- [mazinsallam4@gamil.com](mailto:link)
+- [mazinsallam@gamil.com](mailto:link)
 - [name](link) on LinkedIn
 
 
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazinsalla=true&theme=radical" alt="mazinsallam" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazinsalla&show_icons=true&theme=radical" alt="mazinsallam" />
 </h1>
